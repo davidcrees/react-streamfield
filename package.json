@@ -71,7 +71,7 @@
     "sass": "^1.16.1",
     "sass-loader": "^7.1.0",
     "style-loader": "^0.23.1",
-    "stylelint": "^8.4.0",
+    "stylelint": "^15.10.1",
     "stylelint-scss": "^2.2.0",
     "webpack-bundle-analyzer": "^3.0.3"
   },
